@@ -44,5 +44,5 @@ The dataset includes the following columns (among others):
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/NazirjonIsmoiljonov/VideoGameSales-infosci301.git
+   cd VideoGameSales-infosci301
